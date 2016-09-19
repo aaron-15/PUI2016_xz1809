@@ -1,4 +1,4 @@
-# it is really to hard to work it seperately
+# it is really to hard to work it alone
 # now the thing is several people like us, who don't know much about programming
 # we stay together, while also very independent
 # we discuss it only when we feel desperate

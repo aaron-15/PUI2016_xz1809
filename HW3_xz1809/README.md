@@ -1,0 +1,2 @@
+Our group member has: Chenxi Cui, Xinshi Zheng, Xinge Zhong, Xianbo Gao.
+We discuss the statistics ideas together, walk through the whole workflow, share some specific code solution, and finish our own homework seperately.
